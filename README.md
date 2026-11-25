@@ -60,4 +60,4 @@ Os comandos devem terminar com código zero e sem erros. A suíte verifica confi
 - [Orientações para agentes](AGENTS.md).
 - [Resultados da validação desta entrega](docs/VALIDATION.md).
 
-Git é local nesta entrega. Não configurar ou publicar em remoto sem autorização explícita. Os arquivos `.uid` e `.import` devem ser versionados; `.godot/` é cache regenerável. Licença do código, das artes e distribuição ainda precisam ser decididas.
+Repositório público: [mariomoutinho/pindorama-rpg](https://github.com/mariomoutinho/pindorama-rpg), branch principal `main`. A criação e o envio ao GitHub foram autorizados pelo responsável em 2026-11-25. Novos destinos remotos e deploys exigem autorização explícita. Os arquivos `.uid` e `.import` devem ser versionados; `.godot/` é cache regenerável. Licença do código, das artes e distribuição ainda precisam ser decididas.

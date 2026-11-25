@@ -44,3 +44,9 @@ As configurações e justificativas estão na [arquitetura](ARCHITECTURE.md). Os
 Nenhum erro foi observado nas validações executadas. Não houve teste de exportação, outras GPUs/plataformas, mouse/teclado físicos ou redimensionamento manual. Não há mapa jogável, movimento, combate, narrativa definitiva ou personagens finais.
 
 Próximos passos propostos: revisar a fundação com o responsável, decidir plataformas/controles e autorizar separadamente o protótipo de exploração e o recorte de pesquisa cultural. Nenhuma fase seguinte foi iniciada. Esta entrega é local e não autoriza publicação remota.
+
+## Publicação autorizada posteriormente — 2026-11-25
+
+Após a conclusão da fundação local, o responsável autorizou expressamente criar um repositório público no GitHub e enviar a branch `main`. Foi criado [mariomoutinho/pindorama-rpg](https://github.com/mariomoutinho/pindorama-rpg), mantendo o histórico local e sem avançar a fase de desenvolvimento. As referências anteriores a entrega local registram o escopo da autorização inicial.
+
+Antes do envio, o estado Git estava limpo. Os arquivos versionados foram conferidos; cache, logs, exportações e credenciais não integram o histórico. A verificação de padrões de chaves privadas e tokens não encontrou ocorrências. Nenhuma configuração ou lógica do jogo foi alterada nesta publicação.
