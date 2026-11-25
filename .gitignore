@@ -1,3 +1,23 @@
-# Godot 4+ specific ignores
+# Godot 4: caches e arquivos gerados pelo editor.
 .godot/
 /android/
+
+# Exportações locais: manter recursos-fonte e presets compartilháveis.
+/build/
+/exports/
+export_credentials.cfg
+
+# Configuração local que pode substituir project.godot.
+/override.cfg
+
+# Temporários, logs e arquivos do sistema operacional.
+*.tmp
+*.temp
+*.bak
+*.log
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Metadados .import e .uid são necessários e devem ser versionados.
